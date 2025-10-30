@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|c:\\users\\dipkh\\onedrive\\pictures\\desktop\\pizzashop\\pizzashop\\pizzashop\\csodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\csodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\csodashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csodashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ownerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ownerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ownerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ownerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ordermanagemnt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ordermanagemnt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ordermanagemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ordermanagemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ordermanagemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ordermanagemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ingredientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ingredientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ingredientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ingredientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\csomanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csomanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\csomanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csomanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\pizzamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\pizzamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\pizzamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\pizzamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\pizzamanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\pizzamanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addcso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addcso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addcso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addcso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addingredients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addingredients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addpizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addpizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addchef.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addchef.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addcso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addcso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\addmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\addmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ingredientmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ingredientmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\csomanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\csomanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\chefdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\chefdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\managerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\managerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\ownerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\ownerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\pizzashop\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}|PIzzaShop\\PIzzaShop.csproj|solutionrelative:pizzashop\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerDashboard.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.cs",
+              "RelativeToolTip": "PIzzaShop\\ManagerDashboard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA/wCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:05:36.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OwnerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OwnerDashboard.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:01:03.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\Login.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\Login.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\Login.cs",
+              "RelativeToolTip": "PIzzaShop\\Login.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:54:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSODashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSODashboard.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.cs [Design]",
+              "RelativeToolTip": "PIzzaShop\\CSODashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:17:10.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSODashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSODashboard.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.cs",
+              "RelativeToolTip": "PIzzaShop\\CSODashboard.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAywCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:27:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSODashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSODashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSODashboard.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\CSODashboard.Designer.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAowN0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:18:30.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OwnerDashboard.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.cs",
+              "RelativeToolTip": "PIzzaShop\\OwnerDashboard.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA/wEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:04:01.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerDashboard.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:08:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerManagement.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ManagerManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ManagerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:35:33.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChefDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefDashboard.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefDashboard.cs",
+              "RelativeToolTip": "PIzzaShop\\ChefDashboard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:30:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderManagemnt.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OrderManagemnt.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.cs",
+              "RelativeToolTip": "PIzzaShop\\OrderManagemnt.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:06:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChefDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefDashboard.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefDashboard.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ChefDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ChefDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:12:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderManagemnt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OrderManagemnt.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\OrderManagemnt.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:04:53.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderManagemnt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OrderManagemnt.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\OrderManagemnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:03:52.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\Login.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\Login.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:33:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\HomePage.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\HomePage.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\HomePage.cs",
+              "RelativeToolTip": "PIzzaShop\\HomePage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:53:49.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IngredientManagement.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\IngredientManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\IngredientManagement.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\IngredientManagement.cs",
+              "RelativeToolTip": "PIzzaShop\\IngredientManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:51:03.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IngredientManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\IngredientManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\IngredientManagement.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\IngredientManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\IngredientManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:41:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CSOManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSOManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSOManagement.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\CSOManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\CSOManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:31:50.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChefManagement.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefManagement.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefManagement.cs",
+              "RelativeToolTip": "PIzzaShop\\ChefManagement.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:48:44.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChefManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefManagement.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ChefManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\ChefManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:38:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\HomePage.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\HomePage.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\HomePage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:27:08.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManagerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerManagement.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerManagement.cs",
+              "RelativeToolTip": "PIzzaShop\\ManagerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:41:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CSOManagement.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSOManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSOManagement.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSOManagement.cs",
+              "RelativeToolTip": "PIzzaShop\\CSOManagement.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAIAwwJgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:32:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagerManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerManagement.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerManagement.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\ManagerManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:35:50.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PizzaManagement.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\PizzaManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\PizzaManagement.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\PizzaManagement.cs",
+              "RelativeToolTip": "PIzzaShop\\PizzaManagement.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vzYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:32:56.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PizzaManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\PizzaManagement.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\PizzaManagement.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\PizzaManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\PizzaManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:38:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PizzaManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\PizzaManagement.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\PizzaManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\PizzaManagement.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\PizzaManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:40:54.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddManager.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddManager.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddManager.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddManager.cs",
+              "RelativeToolTip": "PIzzaShop\\AddManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:28:49.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddIngredients.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddIngredients.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddIngredients.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddIngredients.cs",
+              "RelativeToolTip": "PIzzaShop\\AddIngredients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:30:57.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddIngredients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddIngredients.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddIngredients.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddIngredients.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddIngredients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:55:14.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddCSO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddCSO.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddCSO.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddCSO.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddCSO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:49:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddCSO.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddCSO.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddCSO.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddCSO.cs",
+              "RelativeToolTip": "PIzzaShop\\AddCSO.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:45:40.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddChef.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddChef.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddChef.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddChef.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddChef.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:51:41.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddChef.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddChef.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddChef.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddChef.cs",
+              "RelativeToolTip": "PIzzaShop\\AddChef.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:42:54.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddManager.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddManager.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:43:09.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddPizza.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddPizza.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddPizza.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddPizza.cs",
+              "RelativeToolTip": "PIzzaShop\\AddPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:09:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\DBConn.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\DBConn.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\DBConn.cs",
+              "RelativeToolTip": "PIzzaShop\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:39:56.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddIngredients.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddIngredients.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddIngredients.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddIngredients.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\AddIngredients.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:55:26.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddPizza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddPizza.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddPizza.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddPizza.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\GIGABYTE\\Desktop\\PIzzaShop\\PIzzaShop\\AddPizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:53:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddPizza.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddPizza.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddPizza.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddPizza.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\AddPizza.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:53:29.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddChef.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddChef.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddChef.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddChef.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\AddChef.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:52:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddCSO.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddCSO.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddCSO.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddCSO.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\AddCSO.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:49:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddManager.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\AddManager.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\AddManager.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\AddManager.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:44:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IngredientManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\IngredientManagement.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\IngredientManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\IngredientManagement.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\IngredientManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:42:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ChefManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefManagement.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefManagement.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\ChefManagement.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:38:22.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CSOManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSOManagement.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\CSOManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\CSOManagement.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\CSOManagement.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:32:16.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ChefDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ChefDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ChefDashboard.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\ChefDashboard.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:13:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManagerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\ManagerDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\ManagerDashboard.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\ManagerDashboard.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv3oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:10:33.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OwnerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\OwnerDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\OwnerDashboard.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\OwnerDashboard.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv24AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:01:24.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\Login.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\Login.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwK0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:42:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "PIzzaShop\\HomePage.Designer.cs",
+              "ToolTip": "C:\\Users\\dipkh\\OneDrive\\Pictures\\Desktop\\PIzzaShop\\PIzzaShop\\PIzzaShop\\HomePage.Designer.cs",
+              "RelativeToolTip": "PIzzaShop\\HomePage.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:41:56.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

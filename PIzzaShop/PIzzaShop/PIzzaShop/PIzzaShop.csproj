@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8E8F577-A3CA-4F02-ACBB-17C5F13BE454}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PIzzaShop</RootNamespace>
+    <AssemblyName>PIzzaShop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChefDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChefDashboard.Designer.cs">
+      <DependentUpon>ChefDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConn.cs" />
+    <Compile Include="CSODashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSODashboard.Designer.cs">
+      <DependentUpon>CSODashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSOManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSOManagement.Designer.cs">
+      <DependentUpon>CSOManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChefManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChefManagement.Designer.cs">
+      <DependentUpon>ChefManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddManager.Designer.cs">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCSO.Designer.cs">
+      <DependentUpon>AddCSO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChef.Designer.cs">
+      <DependentUpon>AddChef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPizza.Designer.cs">
+      <DependentUpon>AddPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddIngredients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddIngredients.Designer.cs">
+      <DependentUpon>AddIngredients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transactions.Designer.cs">
+      <DependentUpon>Transactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderManagemnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderManagemnt.Designer.cs">
+      <DependentUpon>OrderManagemnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngredientManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngredientManagement.Designer.cs">
+      <DependentUpon>IngredientManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PizzaManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PizzaManagement.Designer.cs">
+      <DependentUpon>PizzaManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerManagement.Designer.cs">
+      <DependentUpon>ManagerManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerDashboard.Designer.cs">
+      <DependentUpon>ManagerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerDashboard.Designer.cs">
+      <DependentUpon>OwnerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddChef.resx">
+      <DependentUpon>AddChef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCSO.resx">
+      <DependentUpon>AddCSO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddIngredients.resx">
+      <DependentUpon>AddIngredients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddManager.resx">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPizza.resx">
+      <DependentUpon>AddPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChefDashboard.resx">
+      <DependentUpon>ChefDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChefManagement.resx">
+      <DependentUpon>ChefManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSODashboard.resx">
+      <DependentUpon>CSODashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSOManagement.resx">
+      <DependentUpon>CSOManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngredientManagement.resx">
+      <DependentUpon>IngredientManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerDashboard.resx">
+      <DependentUpon>ManagerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerManagement.resx">
+      <DependentUpon>ManagerManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderManagemnt.resx">
+      <DependentUpon>OrderManagemnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerDashboard.resx">
+      <DependentUpon>OwnerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PizzaManagement.resx">
+      <DependentUpon>PizzaManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Transactions.resx">
+      <DependentUpon>Transactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
